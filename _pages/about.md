@@ -11,9 +11,14 @@ redirect_from:
 
 I am a PhD student at Georgia Tech, working with [Dr. Paul Pearce](https://www.cc.gatech.edu/~pearce/). My primary areas of interest belong to the domains of network security, privacy and Internet measurement. 
 
-You can find my CV [here](http://shaarifsajid.github.io/files/Sajid_Shaarif_PhdCS_long.pdf). I am currently working on hunting for APT (advanced persistent threat) actors using large-scale Internet analysis tools.
+You can find my CV [here](http://shaarifsajid.github.io/files/Sajid_Shaarif_PhdCS_long.pdf). I am currently working developing large-scale Internet analysis tools in Go to study APT (advanced persistent threat) actors.
 
 Here are some of the projects I have previously worked on:
+
+Investigating Nation-state Advanced Persistent Threat (APT) Activity
+------
+An advanced persistent threat (APT) is a long-term cyber attack by a powerful and malicious actor that aims to remain hidden to provide illegal access to a system over extensive periods of time. Examples of such malwares include Stuxnet, Duqu, Flame, Red October and Derusbi. In this project, I performed an analytical case study of a longitudinal measurement of the Derusbi malware over a period of more than 2 years, by using Google BigQuery and Censys IPv4 datasets. By scanning for Derusbi web-shells, we found 41244 infections with 574 unique IPs infected with Derusbi all over the world. We found that hosts in the United States and China have been most severely aected, which prompts a call to action for better system defenses and security.
+
 
 Studying Application Layer Aliveness
 ------
