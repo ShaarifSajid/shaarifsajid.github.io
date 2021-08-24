@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[**I am actively looking for internship opportunities for summer 2021.**]
 
 I am a PhD student at Georgia Tech, working with Dr. Maria Konte. My primary areas of interest belong to the domains of network security, privacy and Internet measurement. 
 
