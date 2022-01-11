@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Georgia Tech, working with Dr. Maria Konte. My primary areas of interest belong to the domains of network security, privacy and Internet measurement. 
-
-You can find my CV [here](http://shaarifsajid.github.io/files/Sajid_Shaarif_PhdCS.pdf). I am currently working on using social media data to anticipate cyber-attacks with predictive analytics on dark web personas.
-
-Here are some of the projects I have previously worked on:
+I am a graduate student at Georgia Tech and my primary areas of interest belong to the domains of network security, privacy and Internet measurement. I am currently studying advanced courses on operating systems and high performance computer architecture. You can find my CV [here](http://shaarifsajid.github.io/files/Sajid_Shaarif_PhdCS.pdf). In the past, I have actively worked on numerous research projects - here are some of them:
 
 Investigating Nation-state Advanced Persistent Threat (APT) Activity
 ------
