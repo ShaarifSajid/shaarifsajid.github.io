@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Georgia Tech and my primary areas of interest belong to the domains of network security, privacy and Internet measurement. I am currently studying advanced courses on operating systems and high performance computer architecture. You can find my CV [here](http://shaarifsajid.github.io/files/Sajid_Shaarif_PhdCS.pdf). In the past, I have actively worked on numerous research projects - here are some of them:
+I am a graduate student at Georgia Tech and my primary areas of interest belong to the domains of network security, privacy and Internet measurement. I am currently studying advanced courses on operating systems and high performance computer architecture. You can find my CV [here](http://shaarifsajid.github.io/files/sajid_cv_mscs.pdf). In the past, I have actively worked on numerous research projects - here are some of them:
 
 Investigating Nation-state Advanced Persistent Threat (APT) Activity
 ------
