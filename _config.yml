@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shaarif Sajid"
   avatar           : "shaarif.jpeg"
-  bio              : "MSCS Student, School of Computer Science, Georgia Tech"
+  bio              : "MS CS Student, School of Computer Science, Georgia Tech"
   location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SajidShaarif"
+  twitter          : # "SajidShaarif"
   vine             :
   weibo            :
   xing             :
