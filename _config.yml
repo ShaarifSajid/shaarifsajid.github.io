@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shaarif Sajid"
 title_separator          : "-"
 name                     : &name "Shaarif Sajid"
-description              : &description "MS Computer Science Graduate from Georgia Tech"
+description              : &description "SWE @ Corpay."
 url                      : https://shaarifsajid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShaarifSajid/ShaarifSajid.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shaarif Sajid"
   avatar           : "shaarif.jpeg"
-  bio              : "MS CS, School of Computer Science, Georgia Tech"
+  bio              : "SWE @ Corpay. Passionate about sports (soccer + tennis), science (physics + biology) and literature (non-fiction)."
   location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9eMTA9sAAAAJ&hl=en"
-  email            : "shaarif@gatech.edu"
+  email            : "shaarif_123@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
