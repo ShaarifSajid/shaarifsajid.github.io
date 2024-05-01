@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an MS Computer Science graduate from Georgia Tech, specialized in computing systems and network security. **I am looking for full-time positions in software and security engineering/analyst roles**. You can find my resume [here](http://shaarifsajid.github.io/files/shaarif_sajid_resume_mscs.pdf). In the past, I have actively worked on numerous research projects - here are some of them:
+I am a Software Engineer working at Corpay in the Lodging division. I graduated from Georgia Tech with an MS in Computer Science, where I specialized in computing systems and network security. Before that, I studied Computer Science as an undergrad at LUMS. In the past, I have actively worked on numerous academic research projects - here are some of them:
 
 Investigating Nation-state Advanced Persistent Threat (APT) Activity
 ------
