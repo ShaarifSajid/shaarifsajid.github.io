@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Shaarif Sajid"
   avatar           : "shaarif.jpeg"
-  bio              : "SWE @ Corpay. Passionate about sports (soccer + tennis), science (physics + biology) and literature (non-fiction)."
+  bio: |
+  SWE @ Corpay.
+  Passionate about sports (soccer + tennis),
+  science (physics + biology), and
+  literature (non-fiction).
   location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
