@@ -10,11 +10,6 @@ redirect_from:
 
 I am a Software Engineer working at [Corpay](https://www.corpay.com/), a corporate payments company. I graduated from Georgia Tech with an MS in Computer Science, where I specialized in computing systems and network security. Before that, I studied Computer Science as an undergrad at LUMS. In the past, I have actively worked on numerous academic research projects - here are some of them:
 
-Investigating Nation-state Advanced Persistent Threat (APT) Activity
-------
-An advanced persistent threat (APT) is a long-term cyber attack by a powerful and malicious actor that aims to remain hidden to provide illegal access to a system over extensive periods of time. Examples of such malwares include Stuxnet, Duqu, Flame, Red October and Derusbi. In this project, I performed an analytical case study of a longitudinal measurement of the Derusbi malware over a period of more than 2 years, by using Google BigQuery and Censys IPv4 datasets. By scanning for Derusbi web-shells, we found 41244 infections with 574 unique IPs infected with Derusbi all over the world. We found that hosts in the United States and China have been most severely affected, which prompts a call to action for better system defenses and security.
-
-
 Studying Application Layer Aliveness
 ------
 This project began as an extension of the paper ["Scanning the Internet for Liveness" (SIGCOMM CCR'18)](https://ccronline.sigcomm.org/wp-content/uploads/2018/05/sigcomm-ccr-final175.pdf), which focused on characterizing what network and transport layer aliveness means. Taking this to the next step, I worked on discovering and characterizing application layer aliveness, which we define as the condition when an IP speaks the probed application layer protocol. In contrast, an application-layer active IP is one which sends a payload (valid or invalid) for at least one application layer protocol. I worked on datasets of IPv4 scans to determine how much of IPv4 space is alive at the application layer. As the datasets are in the order of terabytes, this project allowed me to learn about handling big data and working with high performance computing clusters. My collaborators include Dr. Shehar Bano (Novi, Facebook) and [Dr. Mobin Javed (LUMS)](http://web.lums.edu.pk/~mobin/), two authors of the initial paper.
