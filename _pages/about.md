@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I’m a Software Engineer at [Corpay](https://www.corpay.com/), where I work on backend development, system integrations, and API-driven platforms in the airline lodging space. I graduated from Georgia Tech with an MS in Computer Science focused on computing systems and network security, and previously completed my BS in Computer Science at LUMS.
+I’m a Software Engineer at [Corpay](https://www.corpay.com/), where I work on backend development, system integrations, and API-driven platforms in the airline lodging space. I earned my MS in Computer Science from Georgia Tech, specializing in computing systems and network security, and my BS in Computer Science from LUMS. If you’d like a quick overview of my background, here is my [resume](https://shaarifsajid.github.io/files/shaarif_sajid_resume_nov_2025.pdf).  
 
-Below are some academic and technical projects I've worked on over the years:
+Below are some academic and technical projects I’ve worked on:
 
 ---
 
