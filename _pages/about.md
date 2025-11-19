@@ -13,8 +13,8 @@ Below are some academic and technical projects I’ve worked on:
 
 ---
 
-## BrewMate — V60 Multi-Recipe Timer (React + Tailwind) [2025]
-**BrewMate** is a mobile-first V60 pour-over coffee timer built with React and Tailwind, designed for precision brewing and accessibility. It supports multiple well-known recipes (Matt Winton, Tetsu Kasuya, James Hoffmann) and features a pour-based running weight system, step-by-step guidance, and iOS-friendly audio cues. The design places strong emphasis on UX, accessibility, and predictable state-machine behavior.
+## Pour Over Coffee Timer ☕ (React + Tailwind) [2025]
+I built a mobile-first V60 pour-over coffee timer with React and Tailwind, designed for precision brewing and accessibility. It supports multiple well-known recipes (Matt Winton, Tetsu Kasuya, James Hoffmann) and features a pour-based running weight system with step-by-step guidance.The design places strong emphasis on UX, accessibility, and predictable state-machine behavior.
 
 **Key contributions:**
 - Implemented multiple recipe flows with instant target updates per pour  
