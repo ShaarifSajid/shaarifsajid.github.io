@@ -2,7 +2,7 @@
 
 Source for my personal portfolio site, served via GitHub Pages.
 
-Plain HTML/CSS/JS — no build step, no framework, no dependencies.
+Plain HTML/CSS/JS. No build step, no framework, no dependencies.
 
 ```
 index.html
