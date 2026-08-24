@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shaarif Sajid — Software Engineer</title>
+<meta name="description" content="Shaarif Sajid — Software Engineer building high-reliability full-stack systems and agentic developer tooling. Based in Atlanta, GA.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22 fill=%22%2351d6c4%22>&#9670;</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="Primary">
+    <a class="nav__brand" href="#top">SS</a>
+    <button class="nav__toggle" id="navToggle" aria-expanded="false" aria-controls="navLinks" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav__links" id="navLinks">
+      <li><a href="#about">About</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main">
+
+  <section class="hero" id="top">
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="container hero__inner">
+      <p class="hero__eyebrow reveal">Software Engineer · Atlanta, GA</p>
+      <h1 class="hero__name reveal">Shaarif Sajid</h1>
+      <p class="hero__tagline reveal">
+        I build high-reliability full-stack systems — from airline crew
+        logistics platforms processing 10,000+ reservations a day, to
+        agentic developer tooling on top of the Claude API.
+      </p>
+      <div class="hero__actions reveal">
+        <a class="btn btn--primary" href="mailto:shaarif_123@hotmail.com">Get in touch</a>
+        <a class="btn btn--ghost" href="https://github.com/shaarifsajid" target="_blank" rel="noopener noreferrer">
+          <svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+          GitHub
+        </a>
+      </div>
+    </div>
+    <a class="scroll-cue" href="#about" aria-label="Scroll to About section">
+      <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 4v16M6 14l6 6 6-6"/></svg>
+    </a>
+  </section>
+
+  <section class="section" id="about">
+    <div class="container">
+      <h2 class="section__title reveal"><span class="section__num">01</span> About</h2>
+      <p class="about__text reveal">
+        I'm a software engineer at <strong>Corpay</strong>, where I build
+        high-reliability API integrations for a high-volume airline crew
+        logistics platform used by hundreds of users across global airline
+        partners. My background spans full-stack development — C#/.NET,
+        React, and TypeScript — as well as cloud security research from my
+        time at Georgia Tech, where I studied Internet-scale threat
+        infrastructure. More recently I've been focused on agentic AI
+        tooling, building with the Claude API and Model Context Protocol
+        (MCP) servers. I care most about systems that stay reliable and
+        observable under real-world load, and about writing code that's
+        easy for the next engineer to reason about.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="experience">
+    <div class="container">
+      <h2 class="section__title reveal"><span class="section__num">02</span> Experience</h2>
+      <div class="timeline">
+
+        <article class="timeline__item reveal">
+          <div class="timeline__meta">
+            <span class="timeline__dates">Mar 2024 — Present</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Software Engineer <span class="timeline__org">· Corpay</span></h3>
+            <p class="timeline__sub">Full Stack, Integrations</p>
+            <ul class="timeline__bullets">
+              <li>Build high-reliability API integrations between external airline systems and internal microservices for a platform processing 10,000+ crew reservations daily.</li>
+              <li>Led a SAML-based SSO redesign for 10+ airline partners across the US, Europe, and Australia, serving hundreds of users.</li>
+              <li>Built a PCI DSS compliance service that eliminated sensitive payment data exposure at scale.</li>
+              <li>Implemented structured logging across services, cutting debug time from ~1 day to ~4 hours.</li>
+              <li>Manage CI/CD via Azure DevOps across 4 services and environments.</li>
+              <li>Work directly with airline partners on NAVBLUE systems covering flight operations and pairings data.</li>
+            </ul>
+            <div class="timeline__stack">
+              <span>C#/.NET</span><span>ASP.NET Web API</span><span>EF Core</span><span>React</span><span>TypeScript</span><span>Material UI</span><span>Python</span><span>Go</span><span>SQL</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="timeline__item reveal">
+          <div class="timeline__meta">
+            <span class="timeline__dates">Apr 2023 — Jan 2024</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Software Engineer <span class="timeline__org">· Fuzzy Logic Consulting</span></h3>
+            <p class="timeline__sub">Data Analysis</p>
+            <ul class="timeline__bullets">
+              <li>Built secure, scalable Python data pipelines for analytics workloads.</li>
+              <li>Designed ETL workflows that improved ingestion throughput and reliability.</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="timeline__item reveal">
+          <div class="timeline__meta">
+            <span class="timeline__dates">Jan 2021 — May 2022</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Graduate Teaching Assistant <span class="timeline__org">· Georgia Tech</span></h3>
+            <ul class="timeline__bullets">
+              <li>TA for Information Security (CS 6035) and Computer Networking (CS 3251).</li>
+            </ul>
+          </div>
+        </article>
+
+        <article class="timeline__item reveal">
+          <div class="timeline__meta">
+            <span class="timeline__dates">Aug 2019 — Dec 2020</span>
+          </div>
+          <div class="timeline__content">
+            <h3 class="timeline__role">Graduate Research Assistant <span class="timeline__org">· Georgia Tech</span></h3>
+            <p class="timeline__sub">Cloud Security</p>
+            <ul class="timeline__bullets">
+              <li>Built a secure, AWS-based data pipeline to analyze global Derusbi APT activity.</li>
+            </ul>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="skills">
+    <div class="container">
+      <h2 class="section__title reveal"><span class="section__num">03</span> Skills</h2>
+      <div class="skills-grid">
+        <div class="skills-group reveal">
+          <h3>Languages</h3>
+          <div class="chips">
+            <span>C#</span><span>.NET</span><span>TypeScript</span><span>Python</span><span>JavaScript</span><span>SQL</span><span>Go</span><span>Bash</span>
+          </div>
+        </div>
+        <div class="skills-group reveal">
+          <h3>Frontend</h3>
+          <div class="chips">
+            <span>React</span><span>TypeScript</span><span>Material UI</span><span>HTML/CSS</span><span>Responsive Design</span><span>SPA Development</span>
+          </div>
+        </div>
+        <div class="skills-group reveal">
+          <h3>Backend &amp; API</h3>
+          <div class="chips">
+            <span>ASP.NET Web API</span><span>Entity Framework Core</span><span>Microservices</span><span>REST APIs</span>
+          </div>
+        </div>
+        <div class="skills-group reveal">
+          <h3>Cloud &amp; DevOps</h3>
+          <div class="chips">
+            <span>AWS</span><span>Azure</span><span>Docker</span><span>Kubernetes</span><span>Terraform</span><span>Azure DevOps</span><span>GitHub Actions</span>
+          </div>
+        </div>
+        <div class="skills-group reveal">
+          <h3>Infra &amp; Observability</h3>
+          <div class="chips">
+            <span>Structured Logging</span><span>Production Monitoring</span><span>Distributed Systems</span>
+          </div>
+        </div>
+        <div class="skills-group reveal">
+          <h3>Domain</h3>
+          <div class="chips">
+            <span>Airline Crew Logistics</span><span>Flight Ops Data</span><span>Pairings Data</span><span>SAML SSO</span><span>PCI DSS Compliance</span>
+          </div>
+        </div>
+        <div class="skills-group reveal">
+          <h3>AI &amp; Tooling</h3>
+          <div class="chips">
+            <span>Claude API</span><span>MCP Servers</span><span>Agentic Dev Tooling</span><span>LLM Integrations</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="projects">
+    <div class="container">
+      <h2 class="section__title reveal"><span class="section__num">04</span> Projects</h2>
+      <div class="projects-grid">
+
+        <article class="project-card reveal">
+          <div class="project-card__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 20h16M6 20V10l3-3 3 3 3-3 3 3v10"/><circle cx="9" cy="8" r="1"/></svg>
+          </div>
+          <h3>Fossil Digger</h3>
+          <p class="project-card__meta">Unity 6 · C# · Mobile Idle Game · In Development</p>
+          <p>
+            A mobile idle/incremental game where players excavate fossils,
+            assemble dinosaur skeletons, and build a museum that generates
+            passive income. Built solo in Unity 6, with an event-driven
+            manager/view architecture, ScriptableObject-driven game balance,
+            and a full prestige and monetization loop.
+          </p>
+        </article>
+
+        <article class="project-card reveal">
+          <div class="project-card__icon" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2 3 7l9 5 9-5-9-5Z"/><path d="M3 12l9 5 9-5M3 17l9 5 9-5"/></svg>
+          </div>
+          <h3>Agentic Developer Tooling</h3>
+          <p class="project-card__meta">Claude API · MCP Servers · LLM Integrations</p>
+          <p>
+            Ongoing exploration of agentic developer workflows built on the
+            Claude API — designing and wiring up Model Context Protocol
+            (MCP) servers to give coding agents structured access to tools,
+            data, and multi-step tasks.
+          </p>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="education">
+    <div class="container">
+      <h2 class="section__title reveal"><span class="section__num">05</span> Education</h2>
+      <div class="edu-list">
+        <div class="edu-item reveal">
+          <div class="edu-item__head">
+            <h3>MS, Computer Science</h3>
+            <span class="edu-item__dates">Aug 2019 — Dec 2022</span>
+          </div>
+          <p class="edu-item__school">Georgia Institute of Technology</p>
+          <p class="edu-item__detail">Specialization: Computing Systems · Computer Networks, Advanced Operating Systems, Secure Computer Systems</p>
+        </div>
+        <div class="edu-item reveal">
+          <div class="edu-item__head">
+            <h3>BS, Computer Science</h3>
+            <span class="edu-item__dates">Aug 2015 — Jun 2019</span>
+          </div>
+          <p class="edu-item__school">Lahore University of Management Sciences (LUMS)</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt contact" id="contact">
+    <div class="container contact__inner">
+      <h2 class="section__title reveal"><span class="section__num">06</span> Contact</h2>
+      <p class="contact__text reveal">
+        I'm always open to talking shop — reliable systems, airline tech,
+        or agentic tooling. The fastest way to reach me is email.
+      </p>
+      <a class="btn btn--primary btn--lg reveal" href="mailto:shaarif_123@hotmail.com">shaarif_123@hotmail.com</a>
+      <div class="contact__links reveal">
+        <a href="https://github.com/shaarifsajid" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <span>© 2026 Shaarif Sajid</span>
+    <span>Atlanta, GA</span>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
