@@ -11,6 +11,7 @@ assets/
   js/main.js
 files/
   resume.pdf
+  research/        poster PDFs linked from the Research section
 ```
 
 To update the resume, replace `files/resume.pdf` with a new file of the
