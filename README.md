@@ -2,13 +2,12 @@
 
 Source for my personal portfolio site, served via GitHub Pages.
 
-Plain HTML/CSS/JS. No build step, no framework, no dependencies.
+Plain HTML and CSS. No build step, no framework, no JavaScript, no dependencies.
 
 ```
 index.html
 assets/
   css/style.css
-  js/main.js
 files/
   resume.pdf
   research/        poster PDFs linked from the Research section
