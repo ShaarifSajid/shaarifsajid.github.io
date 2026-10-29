@@ -129,6 +129,26 @@ h2 {
 .skills dt { color: var(--text); font-weight: 500; }
 .skills dd { margin: 0; color: var(--muted); }
 
+/* Off the clock page */
+.back { margin: -32px 0 32px; font-size: 0.95rem; }
+.small { font-size: 0.9rem; }
+.list-label {
+  color: var(--faint);
+  font-size: 0.9rem;
+  margin: 20px 0 10px;
+}
+.list-label:first-of-type { margin-top: 0; }
+.shelf {
+  list-style: none;
+  margin: 0 0 8px;
+  padding: 0;
+}
+.shelf li { margin-bottom: 12px; }
+.shelf__title { color: var(--text); font-weight: 500; }
+a.shelf__title { color: var(--link); }
+.shelf__by { color: var(--faint); margin-left: 6px; }
+.shelf__note { display: block; color: var(--muted); font-size: 0.95rem; }
+
 /* Footer */
 .footer {
   margin-top: 56px;
