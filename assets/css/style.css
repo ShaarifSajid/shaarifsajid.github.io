@@ -148,6 +148,7 @@ h2 {
 a.shelf__title { color: var(--link); }
 .shelf__by { color: var(--faint); margin-left: 6px; }
 .shelf__note { display: block; color: var(--muted); font-size: 0.95rem; }
+.prose em { color: var(--text); }
 
 /* Footer */
 .footer {
