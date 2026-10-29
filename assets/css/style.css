@@ -149,6 +149,10 @@ a.shelf__title { color: var(--link); }
 .shelf__by { color: var(--faint); margin-left: 6px; }
 .shelf__note { display: block; color: var(--muted); font-size: 0.95rem; }
 .prose em { color: var(--text); }
+.skills.genres { grid-template-columns: 140px 1fr; margin-bottom: 16px; }
+.skills.genres dt { color: var(--muted); font-weight: 400; }
+em.film { color: var(--text); }
+em.show { color: #e3c38c; }
 
 /* Footer */
 .footer {
